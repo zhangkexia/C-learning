@@ -1,4 +1,4 @@
-C_primer/2022/*/*.exe
-C_primer/2023/*/*.exe
+C_primer/*/*/*.exe
+C_primer/*/*/*/*.exe
 .vscode/
 linuxProDesign/2022/*.exe
